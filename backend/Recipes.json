@@ -1,0 +1,212 @@
+[
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Egg, Onions",
+    "output": "Great! With eggs and onions, you can make a classic French Omelette. It's quick and delicious.\n\n**French Omelette**\n\n**Ingredients:**\n- 2 large eggs\n- 1/4 onion, finely chopped\n- 1 tbsp butter\n- Salt and pepper to taste\n\n**Instructions:**\n1. In a small bowl, whisk the eggs with salt and pepper until just blended.\n2. In a non-stick skillet over medium heat, melt the butter. Add the chopped onions and cook until soft.\n3. Pour the egg mixture into the skillet. As it sets, gently pull the cooked edges towards the center.\n4. When the eggs are mostly set but still soft in the center, fold the omelette in half and slide it onto a plate.",
+    "difficulty": "Easy",
+    "cuisine": "French"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Chicken, Rice, Soy Sauce, Carrots",
+    "output": "Perfect! Those ingredients are ideal for a simple and satisfying Chicken Fried Rice.\n\n**Easy Chicken Fried Rice**\n\n**Ingredients:**\n- 1 cup cooked and cooled rice\n- 1 boneless, skinless chicken breast, diced\n- 1/2 carrot, finely diced\n- 2 tbsp soy sauce\n- 1 tbsp vegetable oil\n\n**Instructions:**\n1. Heat the vegetable oil in a large skillet or wok over medium-high heat.\n2. Add the diced chicken and cook until browned. Set aside.\n3. Add the carrots and stir-fry for 2-3 minutes.\n4. Add the cooked rice and stir-fry for 3-4 minutes.\n5. Return the chicken to the skillet, drizzle with soy sauce, and stir everything together.",
+    "difficulty": "Easy",
+    "cuisine": "Asian"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Tomato, Basil, Garlic, Pasta",
+    "output": "Excellent choice! You have the makings of a classic and fresh Pasta al Pomodoro.\n\n**Classic Tomato Basil Pasta**\n\n**Ingredients:**\n- 200g of your favorite pasta\n- 3 ripe tomatoes, diced\n- 2 cloves garlic, minced\n- A handful of fresh basil leaves, torn\n- 2 tbsp olive oil\n\n**Instructions:**\n1. Cook the pasta according to package directions.\n2. Heat the olive oil in a pan, add the garlic and cook until fragrant.\n3. Add the diced tomatoes and cook until they break down into a sauce.\n4. Add the cooked pasta and basil to the sauce and toss to combine.",
+    "difficulty": "Easy",
+    "cuisine": "Italian"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Potatoes, Cheese, Milk",
+    "output": "Those are wonderful ingredients for a comforting side dish. Let's make some simple Scalloped Potatoes.\n\n**Simple Scalloped Potatoes**\n\n**Ingredients:**\n- 4 medium potatoes, peeled and thinly sliced\n- 1 cup shredded cheddar cheese\n- 1 cup milk\n- 1 tbsp butter\n\n**Instructions:**\n1. Preheat your oven to 190°C (375°F). Grease a baking dish.\n2. Arrange layers of potatoes and cheese in the dish.\n3. Pour the milk over the entire dish.\n4. Bake for 45-60 minutes, until potatoes are tender and the top is golden brown.",
+    "difficulty": "Medium",
+    "cuisine": "American"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Chickpeas, Lemon, Garlic",
+    "output": "Fantastic! You're just one key ingredient (tahini) away from making delicious homemade Hummus. Assuming you have it, here is the recipe!\n\n**Easy Homemade Hummus**\n\n**Ingredients:**\n- 1 can (15-ounce) of chickpeas, rinsed\n- 1/4 cup fresh lemon juice\n- 1/4 cup tahini (sesame paste)\n- 1 clove garlic, minced\n- 2 tbsp olive oil\n\n**Instructions:**\n1. In a food processor, combine the tahini and lemon juice and process for 1 minute.\n2. Add the olive oil, garlic, and chickpeas. Process until smooth.\n3. Add 2-3 tablespoons of water to reach your desired consistency.\n4. Serve drizzled with olive oil.",
+    "difficulty": "Easy",
+    "cuisine": "Middle Eastern"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Flour, Egg, Milk, Sugar",
+    "output": "Sounds like you're ready to make some fluffy pancakes for breakfast!\n\n**Classic Pancakes**\n\n**Ingredients:**\n- 1 1/2 cups all-purpose flour\n- 1 large egg\n- 1 1/4 cups milk\n- 2 tbsp white sugar\n- 2 tsp baking powder\n\n**Instructions:**\n1. In a large bowl, mix together dry ingredients.\n2. In a separate bowl, whisk together the egg and milk.\n3. Pour the wet ingredients into the dry ingredients and stir until just combined.\n4. Heat a lightly oiled griddle or frying pan and pour 1/4 cup of batter for each pancake.\n5. Cook until bubbles form, then flip and cook until browned.",
+    "difficulty": "Easy",
+    "cuisine": "American"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Avocado, Bread, Lemon",
+    "output": "That's the perfect start for a trendy and healthy Avocado Toast.\n\n**Simple Avocado Toast**\n\n**Ingredients:**\n- 1 ripe avocado\n- 2 slices of bread, toasted\n- 1 tsp lemon juice\n- Salt and red pepper flakes to taste\n\n**Instructions:**\n1. Scoop the avocado flesh into a bowl and mash it with a fork.\n2. Stir in the lemon juice, salt, and red pepper flakes.\n3. Spread the avocado mixture evenly on the toasted bread and serve immediately.",
+    "difficulty": "Easy",
+    "cuisine": "International"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Semolina (Rava), Onion, Mustard Seeds",
+    "output": "With these ingredients, you can make a classic South Indian breakfast: Upma!\n\n**Quick Rava Upma**\n\n**Ingredients:**\n- 1 cup semolina (rava)\n- 1 medium onion, finely chopped\n- 1 tsp mustard seeds\n- 2.5 cups hot water\n- Salt to taste\n\n**Instructions:**\n1. Dry roast the semolina in a pan until aromatic and set aside.\n2. Heat oil in the same pan, add mustard seeds and let them splutter.\n3. Add the chopped onion and sauté until translucent.\n4. Pour in the hot water and salt and bring to a boil.\n5. Slowly add the roasted semolina while stirring continuously. Cook until the semolina absorbs all the water.",
+    "difficulty": "Easy",
+    "cuisine": "Indian"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Paneer, Tomato, Cream, Onion",
+    "output": "You have the core components for one of the most popular Indian dishes: Paneer Butter Masala.\n\n**Paneer Butter Masala**\n\n**Ingredients:**\n- 200g paneer, cubed\n- 3 large tomatoes, pureed\n- 1 large onion, finely chopped\n- 1/4 cup heavy cream\n- 1 tbsp butter\n- 1 tbsp ginger-garlic paste\n\n**Instructions:**\n1. Heat butter in a pan and sauté the onion until golden brown.\n2. Add ginger-garlic paste and cook for a minute.\n3. Add the tomato puree and spices, and cook until oil separates.\n4. Stir in the heavy cream and then add the paneer cubes. Simmer for 5 minutes.",
+    "difficulty": "Medium",
+    "cuisine": "Indian"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Spinach, Paneer, Garlic",
+    "output": "This is perfect for making a healthy and delicious Palak Paneer.\n\n**Simple Palak Paneer**\n\n**Ingredients:**\n- 250g paneer, cubed\n- 1 large bunch of spinach (palak)\n- 2 cloves garlic, chopped\n- 1 small onion, chopped\n- 1 tomato, chopped\n\n**Instructions:**\n1. Blanch the spinach, then blend to a smooth puree.\n2. Heat oil in a pan and sauté garlic and onion.\n3. Add tomatoes and cook until soft, then add the spinach puree and cook for 5 minutes.\n4. Add the paneer cubes and simmer for 2-3 minutes. Stir in a little cream before serving.",
+    "difficulty": "Medium",
+    "cuisine": "Indian"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Lentils (Toor Dal), Turmeric, Onion, Tomato",
+    "output": "You're all set to make a comforting and essential Indian dish, Dal Tadka.\n\n**Classic Dal Tadka**\n\n**Ingredients:**\n- 1 cup toor dal (split pigeon peas)\n- 1 medium onion, finely chopped\n- 1 medium tomato, finely chopped\n- 1/2 tsp turmeric powder\n- For Tadka: 2 tbsp ghee, 1 tsp cumin seeds, 2 cloves garlic\n\n**Instructions:**\n1. Pressure cook the dal with turmeric and salt until soft.\n2. Prepare the tadka by heating ghee and crackling cumin seeds, then frying garlic, onion, and tomato.\n3. Pour the tadka mixture into the cooked dal, mix well, and simmer for 5 minutes.",
+    "difficulty": "Easy",
+    "cuisine": "Indian"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Ground Beef, Tomato, Pasta, Onion",
+    "output": "You've got the ingredients for a hearty and classic Spaghetti Bolognese!\n\n**Spaghetti Bolognese**\n\n**Ingredients:**\n- 250g ground beef\n- 200g spaghetti\n- 1 can (400g) crushed tomatoes\n- 1 large onion, chopped\n- 2 cloves garlic, minced\n\n**Instructions:**\n1. Cook spaghetti according to package instructions.\n2. In a pan, cook the onion, then add garlic and ground beef and cook until browned.\n3. Stir in the crushed tomatoes and seasonings. Simmer for at least 20 minutes.\n4. Serve the bolognese sauce over the cooked spaghetti.",
+    "difficulty": "Medium",
+    "cuisine": "Italian"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Potato, Cauliflower, Turmeric",
+    "output": "These ingredients are perfect for making a simple North Indian dish, Aloo Gobi.\n\n**Aloo Gobi**\n\n**Ingredients:**\n- 2 medium potatoes (aloo), cubed\n- 1 medium cauliflower (gobi), cut into florets\n- 1 tsp turmeric powder\n- 1 tsp cumin seeds\n- 1 onion, chopped\n\n**Instructions:**\n1. Heat oil, add cumin seeds, then sauté the onion.\n2. Add turmeric and other spices, then add the potatoes and cauliflower.\n3. Mix well to coat with spices. Cover and cook on low-medium heat for 15-20 minutes until tender.",
+    "difficulty": "Easy",
+    "cuisine": "Indian"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Chicken, Yogurt, Ginger, Garlic",
+    "output": "With these ingredients, you can create a fantastic marinade for Chicken Tikka!\n\n**Chicken Tikka**\n\n**Ingredients:**\n- 500g boneless chicken, cut into cubes\n- 1 cup thick yogurt\n- 1 tbsp ginger-garlic paste\n- 1 tbsp lemon juice\n- Spices: garam masala, red chili powder, turmeric\n\n**Instructions:**\n1. In a large bowl, mix the yogurt with all the spices and pastes.\n2. Add the chicken cubes and coat them well.\n3. Let it marinate in the refrigerator for at least 4 hours.\n4. Thread the chicken onto skewers and grill or bake at 200°C (400°F) for 15-20 minutes until cooked through.",
+    "difficulty": "Medium",
+    "cuisine": "Indian"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Bread, Cheese",
+    "output": "You're moments away from the ultimate comfort food: a classic Grilled Cheese Sandwich.\n\n**Classic Grilled Cheese Sandwich**\n\n**Ingredients:**\n- 2 slices of bread\n- 2 slices of cheddar cheese\n- 1 tbsp butter, softened\n\n**Instructions:**\n1. Spread butter on one side of each slice of bread.\n2. Place one slice bread, butter-side down, in a skillet.\n3. Top with cheese and the second slice of bread, butter-side up.\n4. Grill for 3-4 minutes per side, until golden brown and the cheese is melted.",
+    "difficulty": "Easy",
+    "cuisine": "American"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Mango, Yogurt, Milk",
+    "output": "Sounds refreshing! You can easily whip up a delicious Mango Lassi.\n\n**Creamy Mango Lassi**\n\n**Ingredients:**\n- 1 cup ripe mango chunks\n- 1 cup plain yogurt\n- 1/2 cup milk\n- 2 tbsp sugar or honey (to taste)\n\n**Instructions:**\n1. Place the mango, yogurt, milk, and sugar in a blender.\n2. Blend on high speed until the mixture is completely smooth and creamy.\n3. Pour into glasses and serve chilled.",
+    "difficulty": "Easy",
+    "cuisine": "Indian"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Flour, Butter, Sugar, Chocolate Chips, Egg",
+    "output": "You have everything you need to bake a batch of classic Chocolate Chip Cookies!\n\n**Classic Chocolate Chip Cookies**\n\n**Ingredients:**\n- 1 cup all-purpose flour\n- 1/2 cup unsalted butter, softened\n- 3/4 cup sugar (mix of brown and white)\n- 1 large egg\n- 1 cup chocolate chips\n\n**Instructions:**\n1. Preheat oven to 190°C (375°F).\n2. Cream the butter and sugars together until smooth. Beat in the egg.\n3. Gradually add the dry ingredients (flour, baking soda, salt) and mix.\n4. Stir in the chocolate chips.\n5. Drop spoonfuls of dough onto a baking sheet and bake for 9-11 minutes.",
+    "difficulty": "Easy",
+    "cuisine": "American"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Shrimp, Pasta, Garlic, Butter, Lemon",
+    "output": "Those ingredients are perfect for an elegant and quick Shrimp Scampi.\n\n**Easy Shrimp Scampi**\n\n**Ingredients:**\n- 200g pasta\n- 250g shrimp, peeled\n- 4 tbsp butter\n- 3 cloves garlic, minced\n- Juice of 1/2 lemon\n- Fresh parsley, chopped\n\n**Instructions:**\n1. Cook the pasta according to package directions.\n2. Melt butter in a skillet, add garlic and cook until fragrant.\n3. Add the shrimp and cook for 2-3 minutes, until pink.\n4. Stir in lemon juice and add the cooked pasta to the skillet. Toss to combine with fresh parsley.",
+    "difficulty": "Medium",
+    "cuisine": "Italian"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Tea Leaves, Milk, Ginger, Cardamom",
+    "output": "You're all set to make a wonderful cup of authentic Indian Masala Chai.\n\n**Masala Chai**\n\n**Ingredients:**\n- 1 cup water\n- 1 cup milk\n- 2 tsp black tea leaves\n- 1 inch ginger, crushed\n- 2-3 green cardamom pods, crushed\n\n**Instructions:**\n1. Boil water with ginger and cardamom for 1-2 minutes.\n2. Add the tea leaves and simmer for another minute.\n3. Pour in the milk and bring to a boil. Simmer for 2-3 minutes.\n4. Add sugar, stir, strain, and serve hot.",
+    "difficulty": "Easy",
+    "cuisine": "Indian"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Broccoli, Bell Pepper, Soy Sauce, Carrot",
+    "output": "Sounds like you're in the mood for a quick and healthy Vegetable Stir-fry.\n\n**Quick Vegetable Stir-fry**\n\n**Ingredients:**\n- 1 head of broccoli, cut into florets\n- 1 red bell pepper, sliced\n- 1 carrot, julienned\n- 2 tbsp soy sauce\n- 1 tbsp vegetable oil\n\n**Instructions:**\n1. Heat oil in a wok or large skillet over high heat.\n2. Add garlic and ginger and stir-fry until fragrant.\n3. Add carrots and broccoli and stir-fry for 3-4 minutes.\n4. Add the bell pepper and stir-fry for another 2-3 minutes until tender-crisp.\n5. Drizzle with soy sauce and serve.",
+    "difficulty": "Easy",
+    "cuisine": "Asian"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Oats, Milk, Honey",
+    "output": "That's a simple and wholesome start to the day! Let's make some classic Oatmeal.\n\n**Classic Oatmeal**\n\n**Ingredients:**\n- 1/2 cup rolled oats\n- 1 cup milk (or water)\n- 1 tbsp honey or maple syrup\n\n**Instructions:**\n1. In a saucepan, bring the milk to a gentle simmer.\n2. Stir in the oats and reduce the heat to low.\n3. Cook for 5-7 minutes, stirring occasionally, until creamy.\n4. Remove from heat, stir in the honey, and add your favorite toppings.",
+    "difficulty": "Easy",
+    "cuisine": "International"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Arborio Rice, Mushroom, Parmesan, Onion",
+    "output": "You have the essential ingredients for a creamy and elegant Mushroom Risotto.\n\n**Creamy Mushroom Risotto**\n\n**Ingredients:**\n- 1 cup Arborio rice\n- 200g mushrooms, sliced\n- 1 small onion, finely chopped\n- 1/2 cup grated Parmesan cheese\n- 4 cups warm vegetable broth\n\n**Instructions:**\n1. In a pan, sauté the onion and then the mushrooms.\n2. Add the Arborio rice and toast for 1 minute.\n3. Add warm broth one ladle at a time, stirring until absorbed before adding the next.\n4. After 18-20 minutes, when the rice is creamy, stir in Parmesan cheese and butter. Serve immediately.",
+    "difficulty": "Medium",
+    "cuisine": "Italian"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Black Beans, Breadcrumbs, Onion",
+    "output": "This is a great start for delicious, homemade Black Bean Burgers.\n\n**Simple Black Bean Burgers**\n\n**Ingredients:**\n- 1 can (15-ounce) black beans, rinsed and drained\n- 1/2 cup breadcrumbs\n- 1/2 small onion, finely chopped\n- Spices: cumin, garlic powder\n\n**Instructions:**\n1. Mash the black beans in a bowl.\n2. Add breadcrumbs, onion, and spices. Mix well.\n3. Shape the mixture into patties.\n4. Cook the patties in a skillet for 4-5 minutes on each side until browned. Serve on buns.",
+    "difficulty": "Easy",
+    "cuisine": "American"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Spaghetti, Garlic, Olive Oil, Chili Flakes",
+    "output": "You're ready to make one of the simplest yet most delicious Italian pasta dishes: Aglio e Olio.\n\n**Pasta Aglio e Olio**\n\n**Ingredients:**\n- 200g spaghetti\n- 1/4 cup extra virgin olive oil\n- 4-5 cloves garlic, thinly sliced\n- 1/2 tsp red chili flakes\n\n**Instructions:**\n1. Cook spaghetti in salted water. Reserve 1 cup of pasta water before draining.\n2. In a skillet, gently cook the sliced garlic and chili flakes in olive oil over low heat until golden.\n3. Add the drained spaghetti to the skillet with a splash of pasta water.\n4. Toss vigorously to create a light sauce. Serve immediately.",
+    "difficulty": "Easy",
+    "cuisine": "Italian"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "White Fish, Tortillas, Cabbage, Lime",
+    "output": "Sounds like you're making fresh and zesty Fish Tacos!\n\n**Fresh Fish Tacos**\n\n**Ingredients:**\n- 300g firm white fish fillets\n- 8 small corn tortillas\n- 1 cup shredded cabbage\n- 1 lime, cut into wedges\n- Spices: chili powder, cumin\n\n**Instructions:**\n1. Season the fish with spices.\n2. Cook the fish in a skillet for 2-3 minutes per side until flaky.\n3. Warm the tortillas.\n4. Assemble tacos with fish, shredded cabbage, and a squeeze of fresh lime juice.",
+    "difficulty": "Easy",
+    "cuisine": "Mexican"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Avocado, Onion, Lime, Cilantro",
+    "output": "You have the perfect ingredients for making fresh and authentic Guacamole.\n\n**Classic Guacamole**\n\n**Ingredients:**\n- 2 ripe avocados\n- 1/4 cup red onion, finely chopped\n- 1 tbsp fresh lime juice\n- 2 tbsp cilantro, chopped\n\n**Instructions:**\n1. Mash the avocados in a bowl.\n2. Stir in the onion, lime juice, and cilantro.\n3. Season with salt to your liking and serve immediately.",
+    "difficulty": "Easy",
+    "cuisine": "Mexican"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Potato, Peas, Flour",
+    "output": "With these ingredients, you can make the filling and dough for a classic Indian snack: Samosas.\n\n**Simple Samosas**\n\n**Ingredients:**\n- For dough: 1 cup flour, 2 tbsp oil, water\n- For filling: 2 boiled potatoes, 1/2 cup peas, spices\n\n**Instructions:**\n1. Make a firm dough with flour, oil, and water. Rest for 30 minutes.\n2. Prepare the filling by sautéing spices, peas, and mashed potatoes.\n3. Roll out the dough, cut, form into cones, and stuff with the filling.\n4. Seal the edges and deep fry on low-medium heat until golden brown.",
+    "difficulty": "Hard",
+    "cuisine": "Indian"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Onion, Gram Flour (Besan)",
+    "output": "You're all set to make crispy Onion Bhaji, also known as Pakoras, a perfect rainy day snack!\n\n**Crispy Onion Bhaji (Pakora)**\n\n**Ingredients:**\n- 2 large onions, thinly sliced\n- 1 cup gram flour (besan)\n- Spices: turmeric, chili powder\n- Water, as needed\n\n**Instructions:**\n1. In a bowl, mix sliced onions with salt and let sit for 10 minutes.\n2. Add gram flour and spices. Add a small amount of water to form a thick batter.\n3. Drop spoonfuls of the mixture into hot oil and deep fry until golden and crispy.",
+    "difficulty": "Easy",
+    "cuisine": "Indian"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Apples, Flour, Butter, Sugar, Oats",
+    "output": "These are the perfect ingredients for a warm and comforting Apple Crumble.\n\n**Classic Apple Crumble**\n\n**Ingredients:**\n- 4 large apples, sliced\n- Topping: 1 cup flour, 1/2 cup oats, 1/2 cup brown sugar, 1/2 cup cold butter\n\n**Instructions:**\n1. Preheat your oven to 190°C (375°F).\n2. Place the sliced apples in a baking dish.\n3. Make the topping by rubbing the butter into the flour, oats, and sugar until it resembles breadcrumbs.\n4. Sprinkle the topping over the apples and bake for 30-40 minutes until golden.",
+    "difficulty": "Easy",
+    "cuisine": "British"
+  },
+  {
+    "instruction": "You are a recipe assistant. Given the ingredients, provide a suitable recipe in a conversational and easy-to-read format.",
+    "input": "Chocolate, Butter, Sugar, Flour, Egg",
+    "output": "You've got everything you need for rich and fudgy chocolate brownies!\n\n**Fudgy Chocolate Brownies**\n\n**Ingredients:**\n- 1/2 cup unsalted butter, melted\n- 1 cup sugar\n- 2 large eggs\n- 1/2 cup all-purpose flour\n- 1/3 cup cocoa powder\n\n**Instructions:**\n1. Preheat oven to 175°C (350°F). Grease an 8x8 inch pan.\n2. Combine melted butter and sugar. Whisk in eggs and vanilla.\n3. Add the dry ingredients and mix until just combined.\n4. Pour batter into the pan and bake for 20-25 minutes.",
+    "difficulty": "Easy",
+    "cuisine": "American"
+  }
+]
