@@ -26,9 +26,10 @@ if prompt := st.chat_input("What ingredients do you have? (e.g., Eggs, Onions)")
         with st.spinner("Thinking... 🍳"):
             try:
                 response = requests.post(
-                    "http://127.0.0.1:8000/chat",  # 👉 replace with ngrok/Azure URL if deployed
+                                "https://1018db4ebc91.ngrok-free.app/chat",  # 👈 use ngrok URL
                     json={"query": prompt}
                 )
+
                 ai_response = response.json().get("response", "⚠️ No response from server")
             except Exception as e:
                 ai_response = f"❌ Error: {e}"
