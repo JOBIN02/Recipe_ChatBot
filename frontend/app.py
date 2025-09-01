@@ -1,6 +1,6 @@
 import streamlit as st
 import requests
-
+BACKEND_URL="https://1018db4ebc91.ngrok-free.app/chat"
 st.set_page_config(page_title="🍳 Recipe Assistant", page_icon="🥘")
 
 st.title("🍳 Recipe Assistant Chatbot")
