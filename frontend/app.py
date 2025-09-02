@@ -1,6 +1,6 @@
 import streamlit as st
 import requests
-BACKEND_URL="https://1018db4ebc91.ngrok-free.app/chat"
+
 st.set_page_config(page_title="🍳 Recipe Assistant", page_icon="🥘")
 
 st.title("🍳 Recipe Assistant Chatbot")
@@ -26,7 +26,7 @@ if prompt := st.chat_input("What ingredients do you have? (e.g., Eggs, Onions)")
         with st.spinner("Thinking... 🍳"):
             try:
                 response = requests.post(
-                                "https://1018db4ebc91.ngrok-free.app/chat",  # 👈 use ngrok URL
+                                "https://a722f6b1b50e.ngrok-free.app",  # 👈 use ngrok URL
                     json={"query": prompt}
                 )
 
