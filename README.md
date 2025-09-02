@@ -1,3 +1,36 @@
+# Name Matching System
+
+This project implements a name-matching system that finds the most similar names from a dataset when a user provides an input name.
+It uses string similarity techniques to calculate and rank the closest matches.
+
+**Features**
+
+Accepts a dataset of at least 30 names (e.g., Geetha, Gita, Gitu, etc.).
+
+Matches user input against the dataset.
+
+**Returns:**
+
+Best Match: The closest name with the highest similarity score.
+
+Ranked Matches: A list of other similar names with scores.
+
+Can be extended using fuzzy matching libraries or Vector DB search.
+
+**Tech Stack**
+
+Python 3.8+
+
+**Libraries:**
+
+fuzzywuzzy (or rapidfuzz) for similarity scoring
+
+pandas (optional, for structured output)
+
+
+
+
+
 # Recipe_ChatBot
 
 This project provides a complete, locally-runnable chatbot that suggests recipes based on ingredients you provide. It uses an open-source Large Language Model (LLM) served by Ollama, a Python FastAPI backend, and a simple web-based chat interface.
@@ -47,25 +80,26 @@ Create a Virtual Environment (Recommended):
 # Create the environment
 python -m venv venv
 
-# Activate it
-# On Windows:
+ Activate it
+On Windows:
 .\venv\Scripts\activate
-# On macOS/Linux:
+ On macOS/Linux:
 source venv/bin/activate
 
 Install Dependencies: The required Python packages are listed in requirements.txt. Install them using pip.
 
 pip install -r requirements.txt
 
-How to Run the Project
-Step 1: Start the FastAPI Backend Server
+**How to Run the Project**
+
+**Step 1:** Start the FastAPI Backend Server
 Make sure your virtual environment is activated. Run the following command from the project's root directory:
 
 uvicorn main:app --reload
 
 The server will start, and you'll see a message indicating it's running on http://127.0.0.1:8000.
 
-Step 2: Open the Chatbot Interface
+**Step 2:** Open the Chatbot Interface
 Navigate to the project directory in your file explorer.
 
 Double-click the index.html file to open it in your web browser.
