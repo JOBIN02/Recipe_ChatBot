@@ -112,6 +112,7 @@ In the input box at the bottom, type the ingredients you have (e.g., "chicken, r
 Press Enter or click the send button.
 
 The chatbot will process your request and stream back a recipe suggestion.
+<img width="2541" height="1491" alt="Screenshot 2025-09-02 100428" src="https://github.com/user-attachments/assets/2ff9c329-aaec-4bec-bdf9-7d34a65bbb94" />
 
 Sample Input and Expected Output
 Sample Input:
