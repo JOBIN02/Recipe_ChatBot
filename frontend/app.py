@@ -26,7 +26,7 @@ if prompt := st.chat_input("What ingredients do you have? (e.g., Eggs, Onions)")
         with st.spinner("Thinking... 🍳"):
             try:
                 response = requests.post(
-                                "https://01e72ca093a4.ngrok-free.app",  # 👈 use ngrok URL
+                                "https://49dd8daf429e.ngrok-free.app",  # 👈 use ngrok URL
                     json={"query": prompt}
                 )
 
